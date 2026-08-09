@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0118-pascals-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
