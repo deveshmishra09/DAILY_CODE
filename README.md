@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
