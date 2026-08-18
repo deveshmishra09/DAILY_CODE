@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0118-pascals-triangle) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/deveshmishra09/DAILY_CODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -30,6 +31,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0125-valid-palindrome) |
 ## String
 |  |
