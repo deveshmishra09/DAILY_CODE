@@ -27,16 +27,19 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -46,4 +49,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0189-rotate-array) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/deveshmishra09/DAILY_CODE/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
